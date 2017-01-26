@@ -1,0 +1,39 @@
+body {
+	font-family: "Helvetica", sans-serif;
+	background-color: #D3D3D3;
+}
+
+
+.because {
+	font-weight: normal;
+}
+
+.navbar {
+	margin-bottom: 0px;
+	min-height: 62px;
+}
+
+.navbar header {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	height: 50px;
+}
+
+#brand-image {
+	height: 30px;
+}
+
+
+.navbar-text {
+	display: block;
+	margin-top: 20px;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
